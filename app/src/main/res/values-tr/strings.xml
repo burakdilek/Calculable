@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculable</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_hizli_carpma">HizliCarpma</string>
+    <string name="title_activity_hizli_toplama">HizliToplama</string>
+    <string name="title_activity_normal_carpma">HizliToplama</string>
+    <string name="title_activity_normal_toplama">HizliToplama</string>
+    <string name="title_activity_ayarlar">HizliToplama</string>
+    <string name="fastadd">Hızlı Toplama</string>
+    <string name="fastmultiply">Hızlı Çarpma</string>
+    <string name="normalmultiply">Normal Çarpma</string>
+    <string name="normaladd">Normal Toplama</string>
+    <string name="about">Hakkında</string>
+    <string name="quit">Çıkış</string>
+    <string name="yes">Evet</string>
+    <string name="no">Hayır</string>
+    <string name="gobackmenu">menüye geri dönmek istediğinize emin misiniz?</string>
+    <string name="goquit">Çıkmak istediğinize emin misiniz?</string>
+    <string name="wrong_alert">Yanlış Cevap :(</string>
+    <string name="time_alert">Süre Bitti :(</string>
+    <string name="abouttext">Bu oyun sadece eğlence için üretilmiş bir oyundur. \nUmarım siz de oynarken eğlenirsiniz ;)</string>
+    <string name="nevv">Skor</string>
+    <string name="best">Rekor</string>
+
+</resources>

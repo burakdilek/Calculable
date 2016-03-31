@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignBaseline="@+id/button1"
+        android:layout_alignBottom="@+id/button1"
+        android:layout_alignRight="@+id/go1"
+        android:layout_marginRight="36dp"
+        android:background="@drawable/blueagain" />
+
+    <TextView
+        android:id="@+id/toplam1"
+        android:layout_width="240dp"
+        android:layout_height="120dp"
+        android:layout_alignRight="@+id/button2"
+        android:layout_below="@+id/go1"
+        android:layout_marginTop="26dp"
+        android:background="@drawable/blueframe"
+        android:gravity="center"
+        android:textColor="#0099FF"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignLeft="@+id/toplam1"
+        android:layout_below="@+id/toplam1"
+        android:layout_marginTop="56dp"
+        android:background="@drawable/bluemenu" />
+
+    <TextView
+        android:id="@+id/go1"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/blueframe"
+        android:gravity="center"
+        android:textColor="#0099FF"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>
